@@ -1,0 +1,8 @@
+D:\Simplilearn\Day-19\Assignment\Reflection\Reflection\bin\Debug\Reflection.exe.config
+D:\Simplilearn\Day-19\Assignment\Reflection\Reflection\bin\Debug\Reflection.exe
+D:\Simplilearn\Day-19\Assignment\Reflection\Reflection\bin\Debug\Reflection.pdb
+D:\Simplilearn\Day-19\Assignment\Reflection\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+D:\Simplilearn\Day-19\Assignment\Reflection\Reflection\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Day-19\Assignment\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Day-19\Assignment\Reflection\Reflection\obj\Debug\Reflection.exe
+D:\Simplilearn\Day-19\Assignment\Reflection\Reflection\obj\Debug\Reflection.pdb
